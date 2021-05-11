@@ -15,7 +15,7 @@
   "dependencies": {
     "bot-utilities": "^2.5.1",
     "commander": "^2.11.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "twit": "^2.2.9"
   }
 }
